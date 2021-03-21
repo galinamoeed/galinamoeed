@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @galinamoeed
-- 👀 I’m interested in codimg 
+- 👀 I’m interested in coding 
 - 🌱 I’m currently learning java 
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me ...
